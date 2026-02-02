@@ -1,0 +1,16 @@
+{
+  "name": "api-task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/serve.js",
+  "scripts": {
+    "start": "node api/serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.5"
+  }
+}
